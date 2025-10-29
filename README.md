@@ -14,8 +14,8 @@ The goal is to perform SQL-based analysis such as vote counting, party performan
   1) year  
   2) state  
   3) office  
-  4) candidate  
-  5)  party_simplified  
+  4) candidate
+  5) party_simplified  
   6) candidatevotes  
   7) totalvotes  
 
