@@ -11,13 +11,13 @@ The goal is to perform SQL-based analysis such as vote counting, party performan
 - **Source:** [US Elections Dataset on Kaggle](https://www.kaggle.com/datasets/tunguz/us-elections-dataset)
 - **Direct Download Link:** [Download Dataset (ZIP)](https://www.kaggle.com/datasets/tunguz/us-elections-dataset/download?datasetVersionNumber=1)
 - **Columns Used:**
-  - year  
-  - state  
-  - office  
-  - candidate  
-  - party_simplified  
-  - candidatevotes  
-  - totalvotes  
+  1) year  
+  2) state  
+  3) office  
+  4) candidate  
+  5) party_simplified  
+  6) candidatevotes  
+  7) totalvotes  
 
 ---
 
